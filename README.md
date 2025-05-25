@@ -1,3 +1,6 @@
+> # ⚠️ Warning
+> **This project has been moved to _https://github.com/Signather_, this repository is now an archive.**
+
 # 🚀 DEHR - Decentralized Hash Registry
 
 ## 🔍 What is DEHR?
